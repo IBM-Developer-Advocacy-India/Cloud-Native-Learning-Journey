@@ -1,7 +1,7 @@
 # Cloud Native Learning Journey
 This is a repository with course content that gets you started with Cloud Native ramping up to containerization
 
-![logo](img/bsok-1.png)
+![logo](https://github.com/IBM-Developer-Advocacy-India/ibm-openshift-labs/blob/main/img/bsok-1.png)
 
 The course begins with pre-reads & then followed by a live hands-on lab. It further proceeds as a self-paced course. Every week you will receive a new lab courseware, which you will be expected to complete during that week before you receive details about the next week's lab. Links will be live as we progress each week.
 
